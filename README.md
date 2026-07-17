@@ -159,7 +159,7 @@ Multi-region IoT telemetry platform — CAF-aligned landing zone design, AKS wit
 <p align="left">
   <a href="https://subhankar.cloud"><img src="https://img.shields.io/badge/Portfolio-subhankar.cloud-C4B5FD?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/subhankarpattnaik007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@subhankar.cloud"><img src="https://img.shields.io/badge/Email-contact@subhankar.cloud-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:pattnaik_subhankar@yahoo.com"><img src="https://img.shields.io/badge/Email-pattnaik_subhankar@yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
